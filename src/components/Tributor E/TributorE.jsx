@@ -75,7 +75,7 @@ const TributorE = () => {
   
                               {/* here */}
                               <div className={css.prebook1}>
-            <Popup style={{backgroundColor:"blue"}} trigger=
+            {/* <Popup style={{backgroundColor:"blue"}} trigger=
 				{<button className={css.prebook}> Register </button>}
 				modal nested>
 				{
@@ -83,15 +83,13 @@ const TributorE = () => {
 						<div className={css.modal}>
 							<ContactForm/>
 							<div>
-								{/* <button onClick=
-									{() => close()}>
-					 x
-								</button> */}
+								
 							</div>
 						</div>
 					)
 				}
-			</Popup>
+			</Popup> */}
+       <a href="https://plj2dj6k23t.typeform.com/to/DlLnCn4t"><button className={css.prebook}> Register </button> </a> 
 
       </div>
 

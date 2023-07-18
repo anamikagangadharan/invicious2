@@ -80,7 +80,7 @@ const Main = () => {
             </div>
             <div className={css.rightsub}>
 {/* here */}
-               <Popup style={{backgroundColor:"blue"}} trigger=
+               {/* <Popup style={{backgroundColor:"blue"}} trigger=
 				{<button className={css.prebook}> Register </button>}
 				modal nested>
 				{
@@ -88,15 +88,13 @@ const Main = () => {
 						<div className={css.modal}>
 							<ContactForm/>
 							<div>
-								{/* <button onClick=
-									{() => close()}>
-					 x
-								</button> */}
+						
 							</div>
 						</div>
 					)
 				}
-			</Popup>
+			</Popup> */}
+      <a href="https://plj2dj6k23t.typeform.com/to/DlLnCn4t"><button className={css.prebook}> Register </button> </a> 
 
 {/* here */}
 <Link to="/tributorE">
@@ -133,7 +131,7 @@ const Main = () => {
             <div className={css.rightsub}>
 
               {/* here */}
-                    <Popup style={{backgroundColor:"blue"}} trigger=
+                    {/* <Popup style={{backgroundColor:"blue"}} trigger=
 				{<button className={css.prebook}> Register </button>}
 				modal nested>
 				{
@@ -141,15 +139,13 @@ const Main = () => {
 						<div className={css.modal}>
 							<ContactForm/>
 							<div>
-								{/* <button onClick=
-									{() => close()}>
-					 x
-								</button> */}
+							
 							</div>
 						</div>
 					)
 				}
-			</Popup>
+			</Popup> */}
+       <a href="https://plj2dj6k23t.typeform.com/to/DlLnCn4t"><button className={css.prebook}> Register </button> </a> 
 
               {/* here */}
               <Link to="/tributorCM">
